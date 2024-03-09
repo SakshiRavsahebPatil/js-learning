@@ -11,7 +11,7 @@ var typeOfBankName = typeof bankName ;
 console.log("type of bankName :" ,  typeOfBankName);
 
 console.log("====================step 2====================");
-var mark = "90%" ;
+var mark = 90 
 console.log("value of mark :" , mark);
 var typeOfMark = typeof mark ;
 console.log("type of mark :" ,  typeOfMark);
@@ -35,7 +35,7 @@ var typeOfTotalCount = typeof  totalCount;
 console.log("Type of totalCount :" ,typeOfTotalCount );
 
 console.log("=====update Variable=====");
-var totalCount = "107" ;
+var totalCount = 107
 console.log("vale of totalCount :" , totalCount);
 var typeOfTotalCount = typeof  totalCount;
 console.log("Type of totalCount :" ,typeOfTotalCount );
