@@ -17,7 +17,7 @@ function stringHandsOn() {
     console.log("------------------------------- step 6 -------------------------------");
     var resultValue = stringAfterTrim.split(" ")
     console.log(resultValue);
-    console.log(`Total words ater trim are: ${resultValue.length}`);
+    console.log(`Total words after trim are: ${resultValue.length}`);
     console.log("------------------------------- step 7 -------------------------------");
     var result = stringAfterTrim.search("good");
     console.log(`Index of substring "good" is : ${result}`);
