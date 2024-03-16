@@ -27,7 +27,7 @@ function squareOfWordLength() {
     var result = stringLength / totalWords.length;    //Division /  operator
     console.log(`string length divide by total number of words is : ${result}`);
 
-    var result = stringLength * totalWords.length;    //multipal *  operator
+    var result = stringLength * totalWords.length;    //multiple *  operator
     console.log(`string length multipal by total number of words : ${result}`);
 
 }
