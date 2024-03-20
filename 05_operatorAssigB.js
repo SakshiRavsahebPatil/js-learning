@@ -8,7 +8,7 @@ greaterNumber(800 , 899);
 
 
 console.log("------------------------------- step 2 -------------------------------");
-function isEvenOrOddNum(n1) {
+ function isEvenOrOddNum(n1) {
     var result = n1%2==0 ? "True" : "False" ;
     console.log(`Give ${n1} number is EVEN  : ${result}`);
 }
