@@ -16,7 +16,7 @@ let person = `{
 console.log(`JSON person is`, (person));
 
 console.log(`=======================convert JSON to object======================`);
-const result = JSON.parse(person);
+const result = JSON.parse(person); 
 console.table(result);
 
 console.log(`-----------`);
