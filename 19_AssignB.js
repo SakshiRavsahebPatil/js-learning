@@ -41,7 +41,7 @@ console.log(`STEP 03`);
 console.log(`------------------------------find the emp name starts with "R"------------------------------`);
 arrayEmployees.forEach(employee => {
     if (employee.emp_name.startsWith('R')) {
-        employee.detail();;
+        employee.detail();
     }
 });
 
